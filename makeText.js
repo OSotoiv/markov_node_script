@@ -62,4 +62,4 @@ function markovFromFILE(filePath) {
     }
 }
 
-module.exports = { markovFromFILE, markovFromURL, }
+module.exports = { markovFromFILE, markovFromURL }
